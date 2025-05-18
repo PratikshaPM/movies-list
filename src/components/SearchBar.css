@@ -1,0 +1,20 @@
+.header-controls {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  background: #f4f4f4;
+  border-bottom: 1px solid black;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.search-box {
+  flex: 1 1 200px;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.sort-dropdown {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
